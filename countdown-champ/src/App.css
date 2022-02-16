@@ -12,3 +12,9 @@
     display: inline;
     margin: 10px;
 }
+
+.Deadline-input {
+    text-align: center;
+    font-size: 25px;
+    margin: 5px;
+}
